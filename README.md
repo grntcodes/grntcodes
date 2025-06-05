@@ -192,3 +192,4 @@ interface Web3Stack {
 <!-- Update 9 -->
 <!-- Update 10 -->
 // Update at 2025-08-27 22:24:48: feat: add keyboard shortcuts
+// Update at 2025-06-05 12:14:46: docs: update README with setup instructions
