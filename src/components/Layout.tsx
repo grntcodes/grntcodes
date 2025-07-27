@@ -4,3 +4,4 @@
 // Update at 2025-07-04 07:13:06: refactor: improve accessibility
 // Update at 2025-08-02 06:41:07: fix: resolve hydration issues in SSR
 // Update at 2025-03-29 13:45:13: docs: add contributing guidelines
+// Update at 2025-07-26 20:04:29: feat: implement dark theme toggle
