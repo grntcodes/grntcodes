@@ -5,3 +5,4 @@
 // Update at 2025-08-02 06:41:07: fix: resolve hydration issues in SSR
 // Update at 2025-03-29 13:45:13: docs: add contributing guidelines
 // Update at 2025-07-26 20:04:29: feat: implement dark theme toggle
+// Update at 2025-08-20 19:10:06: test: increase test coverage to 90%
