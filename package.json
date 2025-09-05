@@ -6,3 +6,4 @@
 // Update at 2025-06-24 11:56:26: feat: add keyboard shortcuts
 // Update at 2025-08-02 08:31:29: feat: implement infinite scroll
 // Update at 2025-06-11 07:28:06: refactor: migrate to React 18
+// Update at 2025-09-05 02:02:47: refactor: extract reusable components
